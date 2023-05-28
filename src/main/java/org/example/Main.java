@@ -1,5 +1,4 @@
 package org.example;
-
 import org.example.service.StringList;
 import org.example.service.impl.StringListImpl;
 
